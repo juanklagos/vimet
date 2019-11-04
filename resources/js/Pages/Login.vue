@@ -2,7 +2,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Iniciar sesión</div>
+                <div class="card-header">Iniciar sesión (user: vimet@yopmail.com password: vimet)</div>
                 <div class="card-body">
                     <div class="alert alert-danger" role="alert" v-if="error">
                         Error en las credenciales
