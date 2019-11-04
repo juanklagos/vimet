@@ -75829,7 +75829,7 @@ window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.
 window.swal = sweetalert2__WEBPACK_IMPORTED_MODULE_5___default.a;
 Vue.use(vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]);
 Vue.use(vue_axios__WEBPACK_IMPORTED_MODULE_2___default.a, axios__WEBPACK_IMPORTED_MODULE_1___default.a);
-Vue.axios.defaults.baseURL = 'http://vimet.oo/api';
+Vue.axios.defaults.baseURL = 'http://vimet.brogramador.com/api';
 
 Vue.prototype.$goTo = function (to) {
   router.push(to);

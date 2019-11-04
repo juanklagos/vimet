@@ -11,7 +11,7 @@ window.swal = swal;
 
 Vue.use(VueRouter);
 Vue.use(VueAxios,axios);
-Vue.axios.defaults.baseURL= 'http://vimet.oo/api';
+Vue.axios.defaults.baseURL= 'http://vimet.brogramador.com/api';
 
 Vue.prototype.$goTo = function(to){
     router.push(to);
